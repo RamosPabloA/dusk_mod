@@ -108,7 +108,6 @@ Version 0.9
 7. Legal Information
 ---------------------
 
-=================================================================================
 BALDUR'S GATE II: SHADOWS OF AMN Developed and © 2000 BioWare Corp. All Rights
 Reserved. BALDUR'S GATE II: THRONE OF BHAAL Developed and © 2001 BioWare
 Corp. All Rights Reserved. Baldur's Gate, Shadows of Amn, Tales of the Sword
@@ -121,11 +120,8 @@ BioWare Corp. All Rights Reserved. Black Isle Studios and the Black Isle Studios
 logo are trademarks of Interplay Entertainment Corp. All Rights Reserved.
 Exclusively licensed and distributed by Interplay Entertainment Corp. All other
 trademarks and copyrights are property of their respective owners.
-=================================================================================
 
-=================================================================================
 Dusk NPC MOD for Baldur's Gate II © 2023. Dusk is not 
 developed, supported, or endorsed by BioWare, Black Isle Studios, Interplay
 Entertainment Corp., or the Wizards of the Coast. All other trademarks and
 copyrights are property of their respective owners.
-=================================================================================
